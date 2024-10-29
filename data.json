@@ -1,0 +1,9 @@
+{
+    "Zahid": {
+        "password": "Zahid@4027",
+        "balance": 0,
+        "history": [],
+        "interest_rate": 0.02,
+        "last_interest_applied": "2024-10-29 21:21:13.730582"
+    }
+}
